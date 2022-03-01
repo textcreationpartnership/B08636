@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of John St. Leger Esq; respondent in the appeal of John Baret, from a decree in the chancery of Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08636</idno>
+            <idno type="STC">Wing C935A</idno>
+            <idno type="STC">ESTC R173530</idno>
+            <idno type="EEBO-CITATION">64551030</idno>
+            <idno type="OCLC">ocm 64551030</idno>
+            <idno type="VID">184417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184417)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of John St. Leger Esq; respondent in the appeal of John Baret, from a decree in the chancery of Ireland.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Leger, John --  Estate.</term>
+               <term>Barret, John, fl. 1685 --  Estate.</term>
+               <term>Decedents' estates --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:184417:1"/>
+            <head>THE CASE OF John St. Leger Eſq; RESPONDENT IN THE APPEAL Of <hi>John Barret,</hi> from a Decree in the Chancery of <hi>Ireland.</hi>
+            </head>
+            <p>SIR <hi>William Barret,</hi> being in <hi>England,</hi> but having a conſiderable Eſtate in <hi>Ireland</hi> (part whereof he apprehended might be in<g ref="char:EOLhyphen"/>tail'd.)</p>
+            <p>Made his Will in Writing and leaves all his intail'd Land to Mr. <hi>Barret</hi> (his Heir Male) and thoſe not intail'd to Mr. <hi>St Leger,</hi>
+               <note place="margin">16. <hi>Feb.</hi> 72.</note> his Unckle and his Heirs Males, making him Guardian of Mr. <hi>Barret;</hi> but yet he had a very little regard for him, declaring often the Reſpon<g ref="char:EOLhyphen"/>dent Mr. <hi>St. Leger</hi> ſhould have his Eſtate.</p>
+            <p>At firſt Mr. <hi>St. Leger</hi> apprehended alſo that part of the Lands might be intailed, but afterwards diſcovering that they were not, exhibited his Bill in the Chancery in <hi>Ireland,</hi> to diſcover the Writings, and prove the Will, and examine the Witneſſes, the Will being made here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the Lands lying in <hi>Ireland:</hi> And to have the Deeds deliver<g ref="char:EOLhyphen"/>ed, and have the Benefit of Depoſitions taken in a former Cauſe, but between other Parties, <hi>viz.</hi> The Daughters of one Sir <hi>James Barret</hi> who claim'd Portions out of the Eſtate, and to be reliev'd upon the whole matter.</p>
+            <p>To which Bill the Defendant anſwered, and did not Object againſt the Juriſdiction of the Court; but by anſwer prayed to have a Determination of the Matter, ſaying he hoped it would appear at the Hearing, that the Eſtate was intailed. Whereupon</p>
+            <p>The Cauſe was heard, at which time the Queſtions were,
+<note place="margin">21. <hi>May. 77.</hi>
+               </note> whether the E<g ref="char:EOLhyphen"/>ſtate were Old <hi>Andrew Barret</hi>'s (an Anceſtor of the Family of the Teſta<g ref="char:EOLhyphen"/>tors) his Wife <hi>Katharines,</hi> and whether it was intail'd? And the Court after three days Hearing, directed a Tryal upon theſe Iſſues.</p>
+            <p>Whether <hi>Andrew</hi> were ſeiz'd in Right of his Wife <hi>Katharine</hi> of the Lands in queſtion, and whether there was any intail, and of what Lands.</p>
+            <p>In which Tryal the Appellant join'd, and after a full Tryal at the King's <hi>Bench-Bar,</hi>
+            </p>
+            <pb n="2" facs="tcp:184417:2"/>
+            <p>The Jury found that <hi>Andrew</hi> was ſeiz'd in Right of his Wife <hi>Katha<g ref="char:EOLhyphen"/>rine</hi> of particular Lands:
+<note place="margin">17. <hi>Feb.</hi> 78,</note> And did not find he made any intayl, <hi>vid. the Judges Certificate.</hi>
+            </p>
+            <p>After 13 ſeveral days hearing of Counſel on both ſides,
+<note place="margin">20. <hi>June</hi> 77.</note> the Court Decreed the Lands in the Bill (being thoſe found to be <hi>Katharines</hi> by the Verdict) to the Plaintiff Mr. <hi>St. Leger,</hi> and an Injunction for Poſ<g ref="char:EOLhyphen"/>ſeſſion, but without prejudice to the Appellant, if any intayl ſhould af<g ref="char:EOLhyphen"/>terwards be diſcovered, and brought to light, provided he firſt give Obedience to the Order of the Court.</p>
+            <p>Againſt which Decree <hi>Barret</hi> now Appeals, as if the Court had ex<g ref="char:EOLhyphen"/>ceeded their Juriſdiction in making a Decree. But it is conceived to be very Juſt, and agreeable to Reaſon; and the Appellant's Preceed<g ref="char:EOLhyphen"/>ings againſt it very unreaſonable.</p>
+            <p>For the Plaintiff in the Decree Mr.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>St. Leger</hi> could never have had a<g ref="char:EOLhyphen"/>ny relief without the help of a Court of Equity, either to diſcover what Lands were Intayled, (which muſt be done by the writings if any were) or to have the writings of the Fee-ſimple Eſtate out of <hi>Barret</hi>'s hands, or to examine Witneſſes who lived in <hi>England,</hi> and elſewhere to uſe at Common Law, if Occaſion were. As alſo to have the Benefit of Depoſitions taken in another Cauſe between other Par<g ref="char:EOLhyphen"/>ties, but touching the ſame Eſtate.</p>
+            <p>The Appellant joyned to have the Cauſe determin'd in Equity (as before) and did not Object againſt it,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> as hoping himſelf to have a fa<g ref="char:EOLhyphen"/>vorable Conſtruction in Equity upon the Will, as to the Pretence of the Intayl. And then he Joyned in defence of the Tryal.</p>
+            <p>There being an Iſſue directed,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> and a Verdict upon the Right, it would have been hard to have made all that ſignifie nothing, as it muſt, if there was no Decree made; But the Court being ſo poſ<g ref="char:EOLhyphen"/>ſeſt of the Cauſe, it was fit and juſt to make ſome Rule upon thoſe Proceedings, and no other could be but the ſaid Decree: For it would have been very unreaſonable to have diſmiſſed the Bill, when the Plantiff Mr. <hi>St. Legers</hi>'s Right had been aſſerted upon the Tryal.</p>
+            <p>By the Decree the Appellant has all the favor ſhewed him that was poſſible,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> for altho the Verdict found no entail by which the Court might have concluded him, yet he is left at Liberty to make out an entail at any time after, and have the benefit of it; but he knows there is, or can be none, for that the whole Eſtate was <hi>Katharine</hi>'s In<g ref="char:EOLhyphen"/>heritance, and ſhe out-lived both her Husband and her Eldeſt Son Sir <hi>James,</hi> and in truth did no Act to entail it, and neither her Husband, or Son, without her could entail it.</p>
+            <p>But the great Trouble of the Cauſe is, that <hi>Barret</hi> finding the mat<g ref="char:EOLhyphen"/>ter upon the Intail to be againſt him; and that he fails in his ex<g ref="char:EOLhyphen"/>pectation of making that out, one Alderman <hi>Dean,</hi> now ſtarts up to oppoſe the Decree. And he pretends that he has purchaſed the Eſtate, of <hi>Barret.</hi> And ſo would render all that has been done voyd.</p>
+            <p>But that is very ill done of him: for he knew of the Suit, and after Iſſue joined in the Cauſe, has (as is pretended) purchaſed; ſo comes in <hi>pendente lite.</hi> And ſo the Judges of <hi>Ireland</hi> have Certified. And therefore no Conſideration ought to be had of him.</p>
+            <p>And the Plaintiff in the Decree (as is humbly hoped) ſhall proceed for poſſeſſion of the Eſtate, having been hung up (now ſeven years) by this Appeal, from proceeding on the Decree. And he hopes the Decree ſhall be Confirmed having been ſo Solemnly made.</p>
+            <p>As to the Appellants Printed Caſe given out this Seſſions, this Re<g ref="char:EOLhyphen"/>ſpondent
+<pb n="3" facs="tcp:184417:2"/>conceives it needs no Anſwer, the main of it being a ſcanda<g ref="char:EOLhyphen"/>lous Libel, Reflecting on his Grace the Lord Chancellor of <hi>Ireland,</hi> and ſome of the Judges, and on all the Jury.</p>
+            <p>He therein gives your Lordſhips ſome Lawyers opinions, hoping thereby to perſwade your Lordſhips into a good Opinion of an ill Cauſe: Nay, he Prints Sir <hi>William Jones,</hi> and Sir <hi>Francis Pembertons</hi> Opinions, which if they ever did give, was upon his miſtaking the Caſe; for the ſame Perſons have given their opinion upon the Caſe truly ſtated, with their Reaſons for the ſame.</p>
+            <p>That this Reſpondent was, and is well Intitled to have the Decree, againſt which the Appeal is brought, and not only thoſe two, but the late Chief Juſtice <hi>Saunders,</hi> Judge <hi>Reymond,</hi> and Mr. <hi>Holt,</hi> have Con<g ref="char:EOLhyphen"/>curred therein.</p>
+            <p>But this Reſpondent did not think fit to put the ſame in Print, be<g ref="char:EOLhyphen"/>cauſe he is well aſſured, he ſhall by his Council give your Lordſhips at the Bar ſuch Reaſons, as will Convince your Lordſhips that the Appeal ought to be diſmiſt, and the Reſpondents Decree confirmed.</p>
+            <pb facs="tcp:184417:3"/>
+            <pb facs="tcp:184417:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
